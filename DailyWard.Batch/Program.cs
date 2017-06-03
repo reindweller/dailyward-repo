@@ -1,12 +1,12 @@
-﻿using System;
+﻿using Fizzler.Systems.HtmlAgilityPack;
+using HtmlAgilityPack;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HtmlAgilityPack;
-using Fizzler.Systems.HtmlAgilityPack;
 
-namespace DailyWard
+namespace DailyWard.Batch
 {
     class Program
     {
@@ -45,7 +45,7 @@ namespace DailyWard
                     var thumbnailAttribute = thumbnail.Attributes["src"];
                     src = srcAttr == null ? string.Empty : thumbnailAttribute.Value;
                 }
-                
+
 
                 models.Add(new SsModel
                 {
@@ -55,11 +55,9 @@ namespace DailyWard
 
             }
 
-            
+
             return models;
         }
-
-        
     }
 
     public class SsModel

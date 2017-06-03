@@ -1,0 +1,8 @@
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\bin\Debug\DailyWard.Batch.exe.config
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\bin\Debug\DailyWard.Batch.exe
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\bin\Debug\DailyWard.Batch.pdb
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\bin\Debug\Fizzler.dll
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\obj\Debug\DailyWard.Batch.csprojResolveAssemblyReference.cache
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\obj\Debug\DailyWard.Batch.exe
+E:\Projects\DailyWard\dailyward-repo\DailyWard.Batch\obj\Debug\DailyWard.Batch.pdb

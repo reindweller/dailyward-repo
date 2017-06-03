@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DailyWard")]
+[assembly: AssemblyTitle("DailyWard.Batch")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DailyWard")]
+[assembly: AssemblyProduct("DailyWard.Batch")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("16f8cbd2-b642-4952-a787-d88d29aad833")]
+[assembly: Guid("5467e898-1fce-4100-af4f-cdc346477450")]
 
 // Version information for an assembly consists of the following four values:
 //
